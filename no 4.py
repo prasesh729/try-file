@@ -1,0 +1,6 @@
+n =input("what is ur name:-")
+a =input("what is ur age :-")
+print("my name is " +n+ " and my age is "+a)
+print(f"my name is {n} and my age is {a} ")
+print("my name is ",n)
+print("my age is ",a)
