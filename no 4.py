@@ -1,6 +1,9 @@
-n =input("what is ur name:-")
-a =input("what is ur age :-")
-print("my name is " +n+ " and my age is "+a)
-print(f"my name is {n} and my age is {a} ")
-print("my name is ",n)
-print("my age is ",a)
+
+def sub():
+    num1 = int(input("enter the first no ;-"))
+    num2 = int(input("enter  the  second no :-"))
+    answer=num1-num2
+    print(f'the difference of {num1} and {num2} is {answer}')
+    return answer
+
+sub()

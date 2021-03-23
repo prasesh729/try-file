@@ -4,7 +4,7 @@ from itertools import count
 #b=float(input("b="))
 #while a<5:
 #    print("cxvxc")
-    '''elif a==78:
+    ''' elif a==78:
     print("b is 78")
 
 elif a==20:
